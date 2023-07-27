@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Mi Tabla con DataTables</title>
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.13.5/css/jquery.dataTables.min.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Mi Tabla</h1>
+    <table id="miTabla" class="display">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Edad</th>
+                <th>Correo</th>
+                <th>sexo</th>
+                <th>estado</th>
+                <th>fecha creación</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for persona in personas %}
+            <tr>
+                <td>{{ persona.nombre }}</td>
+                <td>{{ persona.edad }}</td>
+                <td>{{ persona.correo }}</td>
+                <td>{{ persona.sexo }}</td>
+                <td>{{ persona.stado }}</td>
+                <td>{{ persona.fecha_ingreso }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/1.13.5/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        // Obtiene el número de página actual de la URL (si no está presente, será 1)
+        var currentPage = parseInt(new URLSearchParams(window.location.search).get('pagina')) || 1;
+
+        // Configura la datatable con la página actual
+        $('#miTabla').DataTable({
+            paging: true,
+            pageLength: 10,
+            displayStart: (currentPage - 1) * 10
+            //otras opciones de configuración
+        });
+
+        //evento para capturar el cambio de página
+        $('#miTabla').on('page.dt', function () {
+            var info = $('#miTabla').DataTable().page.info();
+            var currentPage = info.page + 1;
+            window.history.replaceState(null, null, '?pagina=' + currentPage);
+        });
+    });
+</script>
+
+
+
+</body>
+</html>

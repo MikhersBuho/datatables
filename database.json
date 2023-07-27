@@ -1,0 +1,281 @@
+[
+    {"password":"123456","username":"juan@example.com","is_active":false,"nombre": "Juan", "edad": 25, "correo": "juan@example.com"},
+    {"password":"123456","username":"maria@example.com","is_active":false,"nombre": "María", "edad": 30, "correo": "maria@example.com"},
+    {"password":"123456","username":"pedro@example.com","is_active":false,"nombre": "Pedro", "edad": 28, "correo": "pedro@example.com"},
+    {"password":"123456","username":"ana@example.com","is_active":false,"nombre": "Ana", "edad": 22, "correo": "ana@example.com"},
+    {"password":"123456","username":"juan@example.com","is_active":false,"nombre": "Juan", "edad": 25, "correo": "juan@example.com"},
+    {"password":"123456","username":"maria@example.com","is_active":false,"nombre": "María", "edad": 30, "correo": "maria@example.com"},
+    {"password":"123456","username":"pedro@example.com","is_active":false,"nombre": "Pedro", "edad": 28, "correo": "pedro@example.com"},
+    {"password":"123456","username":"ana@example.com","is_active":false,"nombre": "Ana", "edad": 22, "correo": "ana@example.com"},
+    {"password":"123456","username":"carlos@example.com","is_active":true,"nombre": "Carlos", "edad": 27, "correo": "carlos@example.com"},
+    {"password":"123456","username":"laura@example.com","is_active":true,"nombre": "Laura", "edad": 35, "correo": "laura@example.com"},
+    {"password":"123456","username":"diego@example.com","is_active":true,"nombre": "Diego", "edad": 31, "correo": "diego@example.com"},
+    {"password":"123456","username":"sofia@example.com","is_active":true,"nombre": "Sofía", "edad": 29, "correo": "sofia@example.com"},
+    {"password":"123456","username":"lucas@example.com","is_active":true,"nombre": "Lucas", "edad": 24, "correo": "lucas@example.com"},
+    {"password":"123456","username":"elena@example.com","is_active":true,"nombre": "Elena", "edad": 26, "correo": "elena@example.com"},
+    {"password":"123456","username":"martin@example.com","is_active":true,"nombre": "Martín", "edad": 33, "correo": "martin@example.com"},
+    {"password":"123456","username":"valentina@example.com","is_active":true,"nombre": "Valentina", "edad": 23, "correo": "valentina@example.com"},
+    {"password":"123456","username":"andres@example.com","is_active":true,"nombre": "Andrés", "edad": 28, "correo": "andres@example.com"},
+    {"password":"123456","username":"camila@example.com","is_active":true,"nombre": "Camila", "edad": 27, "correo": "camila@example.com"},
+    {"password":"123456","username":"felipe@example.com","is_active":true,"nombre": "Felipe", "edad": 30, "correo": "felipe@example.com"},
+    {"password":"123456","username":"julia@example.com","is_active":true,"nombre": "Julia", "edad": 29, "correo": "julia@example.com"},
+    {"password":"123456","username":"gabriel@example.com","is_active":true,"nombre": "Gabriel", "edad": 25, "correo": "gabriel@example.com"},
+    {"password":"123456","username":"isabella@example.com","is_active":true,"nombre": "Isabella", "edad": 24, "correo": "isabella@example.com"},
+    {"password":"123456","username":"alejandro@example.com","is_active":true,"nombre": "Alejandro", "edad": 32, "correo": "alejandro@example.com"},
+    {"password":"123456","username":"catalina@example.com","is_active":true,"nombre": "Catalina", "edad": 31, "correo": "catalina@example.com"},
+    {"password":"123456","username":"adrian@example.com","is_active":true,"nombre": "Adrián", "edad": 26, "correo": "adrian@example.com"},
+    {"password":"123456","username":"regina@example.com","is_active":true,"nombre": "Regina", "edad": 23, "correo": "regina@example.com"},
+    {"password":"123456","username":"matias@example.com","is_active":true,"nombre": "Matías", "edad": 27, "correo": "matias@example.com"},
+    {"password":"123456","username":"antonella@example.com","is_active":true,"nombre": "Antonella", "edad": 25, "correo": "antonella@example.com"},
+    {"password":"123456","username":"hugo@example.com","is_active":true,"nombre": "Hugo", "edad": 29, "correo": "hugo@example.com"},
+    {"password":"123456","username":"daniela@example.com","is_active":true,"nombre": "Daniela", "edad": 28, "correo": "daniela@example.com"},
+    {"password":"123456","username":"jose@example.com","is_active":true,"nombre": "José", "edad": 34, "correo": "jose@example.com"},
+    {"password":"123456","username":"florencia@example.com","is_active":true,"nombre": "Florencia", "edad": 26, "correo": "florencia@example.com"},
+    {"password":"123456","username":"angel@example.com","is_active":true,"nombre": "Ángel", "edad": 27, "correo": "angel@example.com"},
+    {"password":"123456","username":"victoria@example.com","is_active":true,"nombre": "Victoria", "edad": 31, "correo": "victoria@example.com"},
+    {"password":"123456","username":"oscar@example.com","is_active":false,"nombre": "Oscar", "edad": 30, "correo": "oscar@example.com"},
+    {"password":"123456","username":"renata@example.com","is_active":false,"nombre": "Renata", "edad": 24, "correo": "renata@example.com"},
+    {"password":"123456","username":"javier@example.com","is_active":false,"nombre": "Javier", "edad": 28, "correo": "javier@example.com"},
+    {"password":"123456","username":"constanza@example.com","is_active":false,"nombre": "Constanza", "edad": 25, "correo": "constanza@example.com"},
+    {"password":"123456","username":"ramon@example.com","is_active":false,"nombre": "Ramón", "edad": 29, "correo": "ramon@example.com"},
+    {"password":"123456","username":"agustina@example.com","is_active":false,"nombre": "Agustina", "edad": 26, "correo": "agustina@example.com"},
+    {"password":"123456","username":"rodrigo@example.com","is_active":false,"nombre": "Rodrigo", "edad": 31, "correo": "rodrigo@example.com"},
+    {"password":"123456","username":"marina@example.com","is_active":false,"nombre": "Marina", "edad": 23, "correo": "marina@example.com"},
+    {"password":"123456","username":"tomas@example.com","is_active":false,"nombre": "Tomás", "edad": 27, "correo": "tomas@example.com"},
+    {"password":"123456","username":"emilia@example.com","is_active":false,"nombre": "Emilia", "edad": 25, "correo": "emilia@example.com"},
+    {"password":"123456","username":"nicolas@example.com","is_active":false,"nombre": "Nicolás", "edad": 32, "correo": "nicolas@example.com"},
+    {"password":"123456","username":"jimena@example.com","is_active":false,"nombre": "Jimena", "edad": 30, "correo": "jimena@example.com"},
+    {"password":"123456","username":"maximiliano@example.com","is_active":false,"nombre": "Maximiliano", "edad": 28, "correo": "maximiliano@example.com"},
+    {"password":"123456","username":"lucia@example.com","is_active":false,"nombre": "Lucía", "edad": 24, "correo": "lucia@example.com"},
+    {"password":"123456","username":"cristian@example.com","is_active":false,"nombre": "Cristián", "edad": 29, "correo": "cristian@example.com"},
+    {"password":"123456","username":"julieta@example.com","is_active":false,"nombre": "Julieta", "edad": 26, "correo": "julieta@example.com"},
+    {"password":"123456","username":"gonzalo@example.com","is_active":false,"nombre": "Gonzalo", "edad": 27, "correo": "gonzalo@example.com"},
+    {"password":"123456","username":"sol@example.com","is_active":false,"nombre": "Sol", "edad": 33, "correo": "sol@example.com"},
+    {"password":"123456","username":"bruno@example.com","is_active":false,"nombre": "Bruno", "edad": 23, "correo": "bruno@example.com"},
+    {"password":"123456","username":"micaela@example.com","is_active":true,"nombre": "Micaela", "edad": 25, "correo": "micaela@example.com"},
+    {"password":"123456","username":"manuel@example.com","is_active":true,"nombre": "Manuel", "edad": 31, "correo": "manuel@example.com"},
+    {"password":"123456","username":"ignacio@example.com","is_active":true,"nombre": "Ignacio", "edad": 30, "correo": "ignacio@example.com"},
+    {"password":"123456","username":"valeria@example.com","is_active":true,"nombre": "Valeria", "edad": 26, "correo": "valeria@example.com"},
+    {"password":"123456","username":"sebastian@example.com","is_active":true,"nombre": "Sebastián", "edad": 29, "correo": "sebastian@example.com"},
+    {"password":"123456","username":"marcela@example.com","is_active":true,"nombre": "Marcela", "edad": 25, "correo": "marcela@example.com"},
+    {"password":"123456","username":"eduardo@example.com","is_active":true,"nombre": "Eduardo", "edad": 27, "correo": "eduardo@example.com"},
+    {"password":"123456","username":"antonia@example.com","is_active":true,"nombre": "Antonia", "edad": 30, "correo": "antonia@example.com"},
+    {"password":"123456","username":"rafael@example.com","is_active":true,"nombre": "Rafael", "edad": 28, "correo": "rafael@example.com"},
+    {"password":"123456","username":"pamela@example.com","is_active":true,"nombre": "Pamela", "edad": 26, "correo": "pamela@example.com"},
+    {"password":"123456","username":"damian@example.com","is_active":true,"nombre": "Damián", "edad": 24, "correo": "damian@example.com"},
+    {"password":"123456","username":"natalia@example.com","is_active":true,"nombre": "Natalia", "edad": 33, "correo": "natalia@example.com"},
+    {"password":"123456","username":"feliciano@example.com","is_active":true,"nombre": "Feliciano", "edad": 25, "correo": "feliciano@example.com"},
+    {"password":"123456","username":"mariana@example.com","is_active":true,"nombre": "Mariana", "edad": 29, "correo": "mariana@example.com"},
+    {"password":"123456","username":"arturo@example.com","is_active":true,"nombre": "Arturo", "edad": 30, "correo": "arturo@example.com"},
+    {"password":"123456","username":"emiliana@example.com","is_active":true,"nombre": "Emiliana", "edad": 28, "correo": "emiliana@example.com"},
+    {"password":"123456","username":"gaston@example.com","is_active":true,"nombre": "Gastón", "edad": 31, "correo": "gaston@example.com"},
+    {"password":"123456","username":"luciana@example.com","is_active":true,"nombre": "Luciana", "edad": 26, "correo": "luciana@example.com"},
+    {"password":"123456","username":"francisco@example.com","is_active":true,"nombre": "Francisco", "edad": 27, "correo": "francisco@example.com"},
+    {"password":"123456","username":"carolina@example.com","is_active":true,"nombre": "Carolina", "edad": 25, "correo": "carolina@example.com"},
+    {"password":"123456","username":"bautista@example.com","is_active":true,"nombre": "Bautista", "edad": 23, "correo": "bautista@example.com"},
+    {"password":"123456","username":"danielle@example.com","is_active":true,"nombre": "Danielle", "edad": 29, "correo": "danielle@example.com"},
+    {"password":"123456","username":"santiago@example.com","is_active":true,"nombre": "Santiago", "edad": 32, "correo": "santiago@example.com"},
+    {"password":"123456","username":"abril@example.com","is_active":true,"nombre": "Abril", "edad": 24, "correo": "abril@example.com"},
+    {"password":"123456","username":"victor@example.com","is_active":true,"nombre": "Víctor", "edad": 30, "correo": "victor@example.com"},
+    {"password":"123456","username":"carla@example.com","is_active":true,"nombre": "Carla", "edad": 26, "correo": "carla@example.com"},
+    {"password":"123456","username":"","stajuanpablo@example.comdo":true,"nombre": "Juan Pablo", "edad": 27, "correo": "juanpablo@example.com"},
+    {"password":"123456","username":"celeste@example.com","is_active":true,"nombre": "Celeste", "edad": 25, "correo": "celeste@example.com"},
+    {"password":"123456","username":"gabriel@example.com","is_active":true,"nombre": "Gabriel", "edad": 28, "correo": "gabriel@example.com"},
+    {"password":"123456","username":"nadia@example.com","is_active":true,"nombre": "Nadia", "edad": 31, "correo": "nadia@example.com"},
+    {"password":"123456","username":"lorenzo@example.com","is_active":true,"nombre": "Lorenzo", "edad": 29, "correo": "lorenzo@example.com"},
+    {"password":"123456","username":"daniela@example.com","is_active":false,"nombre": "Daniela", "edad": 26, "correo": "daniela@example.com"},
+    {"password":"123456","username":"","stajuanjose@example.comdo":false,"nombre": "Juan José", "edad": 30, "correo": "juanjose@example.com"},
+    {"password":"123456","username":"vanesa@example.com","is_active":false,"nombre": "Vanesa", "edad": 28, "correo": "vanesa@example.com"},
+    {"password":"123456","username":"facundo@example.com","is_active":false,"nombre": "Facundo", "edad": 25, "correo": "facundo@example.com"},
+    {"password":"123456","username":"eugenia@example.com","is_active":false,"nombre": "Eugenia", "edad": 33, "correo": "eugenia@example.com"},
+    {"password":"123456","username":"joaquin@example.com","is_active":false,"nombre": "Joaquín", "edad": 27, "correo": "joaquin@example.com"},
+    {"password":"123456","username":"cecilia@example.com","is_active":false,"nombre": "Cecilia", "edad": 24, "correo": "cecilia@example.com"},
+    {"password":"123456","username":"matias@example.com","is_active":false,"nombre": "Matías", "edad": 31, "correo": "matias@example.com"},
+    {"password":"123456","username":"antonella@example.com","is_active":false,"nombre": "Antonella", "edad": 26, "correo": "antonella@example.com"},
+    {"password":"123456","username":"gonzalo@example.com","is_active":false,"nombre": "Gonzalo", "edad": 30, "correo": "gonzalo@example.com"},
+    {"password":"123456","username":"","stamariajose@example.comdo":false,"nombre": "María José", "edad": 28, "correo": "mariajose@example.com"},
+    {"password":"123456","username":"manuela@example.com","is_active":false,"nombre": "Manuela", "edad": 25, "correo": "manuela@example.com"},
+    {"password":"123456","username":"andres@example.com","is_active":false,"nombre": "Andrés", "edad": 29, "correo": "andres@example.com"},
+    {"password":"123456","username":"constanza@example.com","is_active":false,"nombre": "Constanza", "edad": 27, "correo": "constanza@example.com"},
+    {"password":"123456","username":"ezequiel@example.com","is_active":false,"nombre": "Ezequiel", "edad": 33, "correo": "ezequiel@example.com"},
+    {"password":"123456","username":"valentina@example.com","is_active":false,"nombre": "Valentina", "edad": 26, "correo": "valentina@example.com"},
+    {"password":"123456","username":"luciano@example.com","is_active":false,"nombre": "Luciano", "edad": 30, "correo": "luciano@example.com"},
+    {"password":"123456","username":"florencia@example.com","is_active":false,"nombre": "Florencia", "edad": 28, "correo": "florencia@example.com"},
+    {"password":"123456","username":"augusto@example.com","is_active":false,"nombre": "Augusto", "edad": 25, "correo": "augusto@example.com"},
+    {"password":"123456","username":"carolina@example.com","is_active":false,"nombre": "Carolina", "edad": 24, "correo": "carolina@example.com"},
+    {"password":"123456","username":"matias@example.com","is_active":false,"nombre": "Matías", "edad": 31, "correo": "matias@example.com"},
+    {"password":"123456","username":"violeta@example.com","is_active":false,"nombre": "Violeta", "edad": 29, "correo": "violeta@example.com"},
+    {"password":"123456","username":"valentin@example.com","is_active":false,"nombre": "Valentín", "edad": 27, "correo": "valentin@example.com"},
+    {"password":"123456","username":"macarena@example.com","is_active":false,"nombre": "Macarena", "edad": 30, "correo": "macarena@example.com"},
+    {"password":"123456","username":"axel@example.com","is_active":false,"nombre": "Axel", "edad": 28, "correo": "axel@example.com"},
+    {"password":"123456","username":"amelia@example.com","is_active":false,"nombre": "Amelia", "edad": 25, "correo": "amelia@example.com"},
+    {"password":"123456","username":"benjamin@example.com","is_active":false,"nombre": "Benjamín", "edad": 32, "correo": "benjamin@example.com"},
+    {"password":"123456","username":"esperanza@example.com","is_active":false,"nombre": "Esperanza", "edad": 26, "correo": "esperanza@example.com"},
+    {"password":"123456","username":"baltasar@example.com","is_active":false,"nombre": "Baltasar", "edad": 30, "correo": "baltasar@example.com"},
+    {"password":"123456","username":"estefania@example.com","is_active":false,"nombre": "Estefanía", "edad": 28, "correo": "estefania@example.com"},
+    {"password":"123456","username":"felipe@example.com","is_active":false,"nombre": "Felipe", "edad": 25, "correo": "felipe@example.com"},
+    {"password":"123456","username":"gisela@example.com","is_active":false,"nombre": "Gisela", "edad": 33, "correo": "gisela@example.com"},
+    {"password":"123456","username":"german@example.com","is_active":false,"nombre": "Germán", "edad": 27, "correo": "german@example.com"},
+    {"password":"123456","username":"hermione@example.com","is_active":false,"nombre": "Hermione", "edad": 24, "correo": "hermione@example.com"},
+    {"password":"123456","username":"horacio@example.com","is_active":false,"nombre": "Horacio", "edad": 31, "correo": "horacio@example.com"},
+    {"password":"123456","username":"iluminada@example.com","is_active":true,"nombre": "Iluminada", "edad": 26, "correo": "iluminada@example.com"},
+    {"password":"123456","username":"indalecio@example.com","is_active":true,"nombre": "Indalecio", "edad": 30, "correo": "indalecio@example.com"},
+    {"password":"123456","username":"isidoro@example.com","is_active":true,"nombre": "Isidoro", "edad": 28, "correo": "isidoro@example.com"},
+    {"password":"123456","username":"jose@example.com","is_active":true,"nombre": "José", "edad": 25, "correo": "jose@example.com"},
+    {"password":"123456","username":"juan@example.com","is_active":true,"nombre": "Juan", "edad": 32, "correo": "juan@example.com"},
+    {"password":"123456","username":"julieta@example.com","is_active":true,"nombre": "Julieta", "edad": 26, "correo": "julieta@example.com"},
+    {"password":"123456","username":"laura@example.com","is_active":true,"nombre": "Laura", "edad": 30, "correo": "laura@example.com"},
+    {"password":"123456","username":"leandro@example.com","is_active":true,"nombre": "Leandro", "edad": 28, "correo": "leandro@example.com"},
+    {"password":"123456","username":"lidia@example.com","is_active":true,"nombre": "Lidia", "edad": 25, "correo": "lidia@example.com"},
+    {"password":"123456","username":"liliana@example.com","is_active":true,"nombre": "Liliana", "edad": 33, "correo": "liliana@example.com"},
+    {"password":"123456","username":"lorenzo@example.com","is_active":true,"nombre": "Lorenzo", "edad": 27, "correo": "lorenzo@example.com"},
+    {"password":"123456","username":"luciana@example.com","is_active":true,"nombre": "Luciana", "edad": 24, "correo": "luciana@example.com"},
+    {"password":"123456","username":"luciano@example.com","is_active":true,"nombre": "Luciano", "edad": 31, "correo": "luciano@example.com"},
+    {"password":"123456","username":"marcela@example.com","is_active":true,"nombre": "Marcela", "edad": 26, "correo": "marcela@example.com"},
+    {"password":"123456","username":"maria@example.com","is_active":true,"nombre": "María", "edad": 30, "correo": "maria@example.com"},
+    {"password":"123456","username":"mariano@example.com","is_active":true,"nombre": "Mariano", "edad": 28, "correo": "mariano@example.com"},
+    {"password":"123456","username":"mariela@example.com","is_active":true,"nombre": "Mariela", "edad": 25, "correo": "mariela@example.com"},
+    {"password":"123456","username":"marisa@example.com","is_active":true,"nombre": "Marisa", "edad": 32, "correo": "marisa@example.com"},
+    {"password":"123456","username":"martin@example.com","is_active":true,"nombre": "Martín", "edad": 26, "correo": "martin@example.com"},
+    {"password":"123456","username":"mateo@example.com","is_active":true,"nombre": "Mateo", "edad": 30, "correo": "mateo@example.com"},
+    {"password":"123456","username":"matias@example.com","is_active":true,"nombre": "Matías", "edad": 28, "correo": "matias@example.com"}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
